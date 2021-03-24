@@ -34,15 +34,3 @@ let sumarfc = (matriz) => {
 }
 //llamamos al metodo
 sumarfc(matriz);
-
-
-
-
-
-
-
-
-
-
-
-
