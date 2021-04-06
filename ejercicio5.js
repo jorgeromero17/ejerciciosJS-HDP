@@ -1,3 +1,7 @@
+// Jorge Eduardo Romero García RG19041
+/* 5- Se dispone de N temperaturas almacenadas en un array. Se desea calcular su media y
+obtener el número de temperaturas mayores o iguales que la media.*/
+
 //array de temperaturas en celcius 
 let temperaturas = [30,24,28,31,33,26,38,19,17];
 
